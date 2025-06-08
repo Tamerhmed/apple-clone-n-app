@@ -1,3 +1,4 @@
+'use client';
 import VideoCarouselWrapper from '@/app/components/VideoCarouselWrapper';
 import AppleFooter from './components/AppleFooter';
 import ApplePromoGrid from './components/ApplePromoGrid';
