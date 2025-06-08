@@ -34,7 +34,6 @@
   --header-row-height: 44px;
   --header-height: calc(var(var(--header-row-height) * 2));
   --hero-height: calc(100svh-var(--header-height));
-  /* Make them available as spacing values */
   --spacing-header-row: var(--header-row-height);
   --spacing-header: var(--header-height);
   --spacing-hero: var(--hero-height);
