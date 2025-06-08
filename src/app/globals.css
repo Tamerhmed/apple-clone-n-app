@@ -27,10 +27,8 @@
   --text-6xl--line-height: 1;
   --text-7xl: 4.5rem;
   --text-7xl--line-height: 1.05;
-  --font-sans: sans-serif, Arial, 'SF Pro display', 'Helvetica Neue',
-    'Helvetica', 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol',
-    'Noto Color Emoji';
-
+  --font-sans: sans-serif, Arial, 'SF Pro display', 'Helvetica',
+    'Apple Color Emoji';
   --header-row-height: 44px;
   --header-height: calc(var(var(--header-row-height) * 2));
   --hero-height: calc(100svh-var(--header-height));
